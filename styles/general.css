@@ -1,0 +1,23 @@
+.video-dash{
+     vertical-align: top;
+     margin-top: 0%;
+     font-size: 14px;
+     font-weight: bold;
+     }
+     .video-author{
+        font-size:12px;
+        margin-bottom: 8px;
+        margin-top: 8px;
+     }
+     .video-stats{
+     margin:0;
+     font-size:12px;
+     margin-top:0px;
+}
+    body{
+        margin:0px;
+        padding-top: 80px;
+        padding-left: 80px;
+        height: 3000px;
+        background-color: rgb(248,248,248);
+    }
